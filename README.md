@@ -1,0 +1,2 @@
+# rust_lat_note
+tsinghua_rust_lan_note
